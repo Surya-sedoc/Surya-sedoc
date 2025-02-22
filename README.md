@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on honing my Java programming skills.
 - 🌱 I’m also learning web development to complement my Java expertise.
 - 💞️ I’m looking to collaborate on open-source projects related to software development, particularly those involving Java.
-- 📫 You can reach me via email at surya.prvt@gmail.com
+- 📫 You can reach me via email at surya.prvt01@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new programming languages!
 
